@@ -1,0 +1,16 @@
+ofx3DModelLoader
+ofxAssimpModelLoader
+ofxNetwork
+ofxOpenCv
+ofxOsc
+ofxSvg
+ofxThreadedImageLoader
+ofxVectorGraphics
+ofxXmlSettings
+ofxChromaKey
+ofxGreenscreen
+ofxMSAInteractiveObject
+ofxMtPhotoGallery
+ofxQTVideoSaver
+ofxSimpleGuiToo
+ofxTuio
